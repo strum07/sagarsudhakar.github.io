@@ -1,0 +1,22 @@
+{
+  "name": "sagarsudhakar.github.io",
+  "version": "1.0.0",
+  "description": "Web Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strum07/sagarsudhakar.github.io.git"
+  },
+  "keywords": [
+    "web-portfolio"
+  ],
+  "author": "sagar sudhakar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/strum07/sagarsudhakar.github.io/issues"
+  },
+  "homepage": "https://github.com/strum07/sagarsudhakar.github.io#readme"
+}
